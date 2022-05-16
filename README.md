@@ -4,6 +4,7 @@
   <img src="https://user-images.githubusercontent.com/70073886/165483450-f2e6ff6e-4dda-4904-a0d2-73f015bac11b.png">
 </p>
 
+INTRODUCTION 
 
 <h1 align="center"> Data Analysis Training Workshop</h1>
 
@@ -50,7 +51,7 @@
         4. Dataframe
             1. accessing data in R
         5. Lists
-3. Functions
+3. How Many Functions
 4. Apply functions in R
     1. Importing dataset for use
     2. Basics of using `Apply` functions in R
